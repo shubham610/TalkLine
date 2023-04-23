@@ -15,19 +15,15 @@ TalkLine is a post sharing web application that enables users to create and shar
 
 <ul>
 <li>Clone the repository:</li>
-<ul><li>git clone https://github.com/<username>/talkline.git</li></ul>
+<code>git clone https://github.com/shubham610/talkline.git</code>
 
 <li>Install the dependencies:</li>
-<ul>
-<li>cd talkline</li>
-<li>npm install</li>
-</ul>
+<code>cd talkline <br>
+ npm install</code>
 
 <li>Start the server:</li>
-<ul>
-<li>sql</li>
-<li>npm start</li>
-</ul></ul>
+<code>sql<br>
+ npm start</code>
 
 
 <b>Open the application in a web browser at http://localhost:3000/.</b>
