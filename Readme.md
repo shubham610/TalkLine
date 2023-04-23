@@ -22,7 +22,7 @@ TalkLine is a post sharing web application that enables users to create and shar
  npm install</code>
 
 <li>Start the server:</li>
-<code>sql<br>
+<code>
  npm start</code>
 
 
