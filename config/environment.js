@@ -7,7 +7,7 @@ const development = {
     name: "development",
     asset_path: "./assets",
     session_cookie_key: "tobechanged",
-    db: "codeial-development",
+    db: "mongodb+srv://admin-sb:Test123@cluster0.3hkkj.mongodb.net/talk-development",
     google_client_id: "Paste your client id here",
     google_client_secret: "Paste your client Secret here",
     google_callback_url: "http://localhost:8000/users/auth/google/callback",
